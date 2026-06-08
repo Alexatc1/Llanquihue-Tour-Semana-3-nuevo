@@ -11,7 +11,9 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 🧱 Estructura general del proyecto
 📁 src/
+
 ├── app/         # Clase principal con el método main
+
 └── model/  # Clases de dominio (Persona, Direccion, Empleado)
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
