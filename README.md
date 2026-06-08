@@ -10,6 +10,7 @@ Este proyecto corresponde a la actividad de la sumativa Semana 3 de la asignatur
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
 🧱 Estructura general del proyecto
+
 📁 src/
 
 ├── app/         # Clase principal con el método main
