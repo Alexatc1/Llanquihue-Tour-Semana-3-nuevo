@@ -3,6 +3,7 @@ package model;
 /**
  * Representa un Empleado
  * Esta clase se utiliza para crear un Empleado
+ * Esta clase Hereda de la clase Persona
  */
 public class Empleado extends Persona{
     private String cargo;
